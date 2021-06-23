@@ -1,6 +1,6 @@
 # whack_a_fly
 
-A new Flutter application.
+A new game designed using Flutter.
 
 ## Getting Started
 
